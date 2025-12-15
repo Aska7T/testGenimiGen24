@@ -1,0 +1,7 @@
+{
+  "name": "Solar Term Zen (节气时钟)",
+  "description": "A dynamic, immersive mini-app for Chinese Solar Terms, featuring cultural education, lifestyle guides, and AI-powered interactions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
